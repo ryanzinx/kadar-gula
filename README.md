@@ -30,12 +30,12 @@ Rekomendasi: Dapat dikonsumsi dengan wajar<br>
    - Per sajian: 3.5%
    - Total kemasan: 5.2%
 
-=== ANALISIS GULA ===
+=== ANALISIS GULA ===<br>
 Persentase dari Batas Gula Harian (50g):
 1. Per sajian: 25.3%
 2. Total kemasan: 38.0%
 
-=== PANDUAN KADAR GULA ===
+=== PANDUAN KADAR GULA ===<br>
 Klasifikasi per 100ml:
 - Rendah gula: <5g/100ml
 - Normal: 5-8g/100ml
