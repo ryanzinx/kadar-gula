@@ -4,11 +4,11 @@
 3. Kandungan gula total (gram): 19
 4. Total kalori (kkal): 105
 
-=== HASIL ANALISIS KEMASAN ===
-Volume total: 350.0 ml
-Jumlah sajian: 1.5
-Gula total: 19.0 gram
-Kalori total: 105.0 kkal
+=== HASIL ANALISIS KEMASAN ===<br>
+Volume total: 350.0 ml<br>
+Jumlah sajian: 1.5<br>
+Gula total: 19.0 gram<br>
+Kalori total: 105.0 kkal<br>
 
 === ANALISIS PER SAJIAN ===
 1. Volume per sajian: 233.3 ml
@@ -16,9 +16,9 @@ Kalori total: 105.0 kkal
 3. Kalori per sajian: 70.0 kkal
 4. Kadar gula per 100ml: 5.4 gram
 
-KATEGORI: NORMAL
-Deskripsi: Minuman ini memiliki kadar gula normal
-Rekomendasi: Dapat dikonsumsi dengan wajar
+KATEGORI: NORMAL<br>
+Deskripsi: Minuman ini memiliki kadar gula normal<br>
+Rekomendasi: Dapat dikonsumsi dengan wajar<br>
 
 === ANALISIS KALORI ===
 1. Kalori dari Gula:
